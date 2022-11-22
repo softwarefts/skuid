@@ -1,4 +1,3 @@
-<skuid__page unsavedchangeswarning="yes" personalizationmode="server" showsidebar="true" showheader="true" theme="Case" title="Checklist">
 	<models>
 		<model id="InfoCore" limit="20" query="true" createrowifnonefound="false" datasource="salesforce" sobject="Info_Core__c">
 			<fields>
@@ -17445,4 +17444,3 @@
 	</styles>
 	<interactions/>
 	<background type="color"/>
-</skuid__page>
